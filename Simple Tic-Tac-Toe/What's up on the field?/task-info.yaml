@@ -230,5 +230,8 @@ files:
         TicTacToeTest().run_tests()
   learner_created: false
 feedback_link: https://hyperskill.org/projects/73/stages/401/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 31 Aug 2021 19:50:19 UTC
+record: 3
